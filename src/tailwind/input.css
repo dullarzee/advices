@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+@theme{
+    --color-cardBg:hsl(217, 19%, 24%);
+    --color-heading:hsl(150, 100%, 66%);
+    --color-paragraphColor:hsl(193, 38%, 86%);
+    --shadow-button:0px 0px 25px var(--heading);
+    --font-manrope:manrope;
+}
